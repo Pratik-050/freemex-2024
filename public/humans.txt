@@ -1,0 +1,23 @@
+"It's an initiative for knowing the people behind a website." - https://humanstxt.org/
+
+/* TEAM */
+	Developer: Mohammad Rafivulla
+	From: India
+
+	Developer: Shruti Singh
+	From: India
+
+	Developer: Amool Kuldiya
+	From: India
+
+	(First) Developer: Abha Jha
+	From: India
+
+	(First) Developer: Souparno Paul
+	From: India
+
+
+/* SITE */
+	Backend Stack: PostgreSQL, Express, Socket.io, Node
+	Frontend Stack: React, Redux, Node
+	IDE: VS Code

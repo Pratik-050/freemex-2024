@@ -1,0 +1,32 @@
+node_modules
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# docker volume to store Postgres data
+data
+
+# All .vscode settings except settings.json and extensions.json
+.vscode/**/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# dotenv environment variables file
+.env
+.env.local
+.env.test
+.env.production
+
+# pem files
+*.pem
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+requests.rest

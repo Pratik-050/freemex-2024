@@ -1,0 +1,5 @@
+{
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "standard.vscode-standard",
+    "javascript.format.semicolons": "remove"
+}
